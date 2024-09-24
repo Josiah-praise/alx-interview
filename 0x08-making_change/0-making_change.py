@@ -1,9 +1,13 @@
 #!/usr/bin/python3
-"""Change making module.
+"""
+Change making module.
 """
 
 
 def makeChange(coins, total):
+    '''
+    some bs comment
+    '''
     if total <= 0:
         return 0
 
